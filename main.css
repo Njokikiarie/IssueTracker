@@ -1,0 +1,9 @@
+.jumbotron {
+    position: relative;
+    align-self: center;
+    align-content: center;
+    justify-content: center;
+    left: 15%;
+    width: 70%;
+
+}
